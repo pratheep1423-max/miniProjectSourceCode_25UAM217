@@ -1,0 +1,7 @@
+Account: 45 | Amount: 800.00 | New Balance: 805.00
+Account: 32 | Amount: 0.00 | New Balance: 1.00
+Account: 32 | Amount: 5000.00 | New Balance: 5001.00
+Account: 32 | Amount: -400.00 | New Balance: 4601.00
+Account: 32 | Amount: 4500.00 | New Balance: 9101.00
+Account: 32 | Amount: -459.00 | New Balance: 8642.00
+Account: 32 | Amount: 500.00 | New Balance: 9142.00
