@@ -4,6 +4,5 @@ Acct  Last Name       First Name    Balance
 1086177263                               450.00
 3183472384k@                               0.00
 21    nivesh          c              300.00
-32    siva            r             9142.00
 134217728�@                             0.00
 64    pratheep        l                4.00
